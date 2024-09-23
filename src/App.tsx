@@ -2,7 +2,7 @@ function App() {
   return (
     <>
       <h1 className="text-3xl font-bold text-red-300 text-center">
-        Hello world!
+        ĐÂY LÀ TRANG DỰ ÁN TỐT NGHIỆP
       </h1>
     </>
   );
